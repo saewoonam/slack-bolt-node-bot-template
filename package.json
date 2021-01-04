@@ -1,0 +1,10 @@
+{
+  "name": "slack-bolt",
+  "version": "1.0.0",
+  "description": "first node slack app written with bolt",
+  "main": "app.js",
+  "license": "MIT",
+  "dependencies": {
+    "@slack/bolt": "^2.5.0"
+  }
+}
